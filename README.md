@@ -14,8 +14,7 @@ Changes
 
 Installation
 ------------
-```pip install scrapy_proxy_pool```
-
+```pip install .```
 Usage
 -----
 
