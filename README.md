@@ -15,6 +15,7 @@ Changes
 Installation
 ------------
 ```pip install .```
+
 Usage
 -----
 
